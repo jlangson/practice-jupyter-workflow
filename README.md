@@ -1,6 +1,8 @@
-## course.fast.ai
+#About
 
-This is where you'll find the notebooks, slides, and spreadsheets for the 2022 edition of Practical Deep Learning for Coders. See [course.fast.ai](https://course.fast.ai) for the lessons.
+This is a place to practice version control and workflow with cloud services like Pycharm, Kaggle or Paperspace with Jupyter notebooks.
+
+Notebooks are from [course.fast.ai](https://course.fast.ai)
 
 ## What's here
 
